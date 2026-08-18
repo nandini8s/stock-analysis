@@ -1,0 +1,17 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data (raw data usually shouldn't be committed)
+data/*
+!data/.gitkeep
